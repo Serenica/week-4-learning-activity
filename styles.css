@@ -5,11 +5,6 @@ body{
     background-color: pink;
     color: white
   }
-  mg{
-    float:right;
-    max-width:760px;
-
-
 
 
 
@@ -20,6 +15,10 @@ body{
         background-color: purple;
         color: white
     }
+  }
+  img{
+    float: none;
+    max: width 100%;;
   }
   @media screen and (max-width: 320px){
     body{
