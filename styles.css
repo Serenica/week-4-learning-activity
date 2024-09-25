@@ -5,7 +5,9 @@ body{
     background-color: pink;
     color: white
   }
-
+  mg{
+    float:right;
+    max-width:760px;
 
 
 
